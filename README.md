@@ -11,3 +11,6 @@ Substituição: $0 [inserir_aqui]
 
 Regex: (?<!:)(\b\w)
 Substituição: [inserir_aqui] $1
+
+## Removar trailing spaces 
+\s+$
